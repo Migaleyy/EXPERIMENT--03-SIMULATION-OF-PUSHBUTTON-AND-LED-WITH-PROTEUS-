@@ -160,14 +160,10 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ## Output screen shots of proteus  :
 
+![ex 3](https://github.com/Migaleyy/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/118262199/860ae7b2-6258-4962-923e-dfe638a8f360)
 
+![ex3](https://github.com/Migaleyy/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/118262199/c6b38dfd-e9cd-41c2-a1a6-29e6ea0d67ed)
 
-
-## Proteus layout(Add pdf screen shot of circuit here)
- 
- 
- 
- 
 ## Result :
 Interfacing a digital output and digital input  with ARM microcontroller are simulated in proteus and the results are verified.
 
